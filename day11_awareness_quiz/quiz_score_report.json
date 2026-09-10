@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-09-09 13:57:26.107764",
+  "score": 9,
+  "total": 10,
+  "responses": [
+    {
+      "question": "An email asks you to verify your password via a link. You should:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "You find a USB drive in the parking lot. You should:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "A caller claiming to be IT asks for your password to 'fix an issue'. You should:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "A LinkedIn recruiter you've never met sends a job offer PDF. You should:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "An SMS says your bank account is locked, with a short link to 'unlock' it. You should:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "A colleague's email suddenly asks you to buy gift cards urgently. You should:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "A website's login form submits over plain HTTP with an odd domain. This is a sign of:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "You receive an unexpected 'password reset' code by SMS you didn't request. You should:",
+      "your_answer": "B",
+      "correct": true
+    },
+    {
+      "question": "The best defense against most social engineering is:",
+      "your_answer": "C",
+      "correct": false
+    },
+    {
+      "question": "A new 'colleague' asks to bypass badge check by tailgating you into the office. You should:",
+      "your_answer": "B",
+      "correct": true
+    }
+  ]
+}

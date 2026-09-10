@@ -1,0 +1,18 @@
+{
+  "incident": {
+    "type": "account_takeover",
+    "severity": "CRITICAL",
+    "user": "jsmith@sqrock.com",
+    "trigger": "brute force success + suspicious mail rule (Day 13 SIEM alert)"
+  },
+  "actions": [
+    "LOCK user account",
+    "Revoke active sessions",
+    "Notify SOC team",
+    "Preserve mail/auth logs",
+    "Remove suspicious mailbox rules",
+    "Force password reset",
+    "Require MFA re-enrollment"
+  ],
+  "timestamp": "2026-09-09 14:03:15.584191"
+}
