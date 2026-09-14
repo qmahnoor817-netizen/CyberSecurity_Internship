@@ -25,6 +25,6 @@ def usb_payload_sim(output_file="recon_log.txt"):
     print(f"[SIM] Recon data saved to {output_file}")
     return info
 
+
 if __name__ == "__main__":
     usb_payload_sim()
-    

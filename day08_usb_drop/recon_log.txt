@@ -1,6 +1,0 @@
-timestamp: 2026-09-10 13:45:02.112234
-hostname: DESKTOP-MN6IORG
-os: Windows
-version: 10.0.19045
-user: Dell
-cwd: C:\Users\Dell\Downloads\day08_usb_drop
