@@ -5,14 +5,6 @@ Each `dayNN_*` folder contains:
 - `REPORT.md` — the written report/analysis deliverable
 - Any extra deliverable named in the task brief (checklist, playbook, template, sample files)
 
-## How to submit
-1. Run each script and screenshot the output where the brief asks for
-   "execution logs" — most Phase 2 scripts run fully offline with no
-   setup (see table below).
-2. Read and lightly rewrite each `REPORT.md` in your own words before
-   submitting.
-3. Zip/upload the whole folder, or submit day-by-day per your
-   supervisor's format.
 
 ## What needs extra setup vs. runs immediately
 
@@ -22,10 +14,6 @@ Each `dayNN_*` folder contains:
 | | Day 20 | Day 20 (needs a live server on localhost:5000) |
 | | Day 30 (partial) | Day 30 (recon portion needs a live target) |
 
-Install everything at once:
-```
-pip install requests
-```
 
 ## Notes on specific days
 - **Day 16 / 20 / 30**: point the script at your own local dev server
@@ -47,7 +35,4 @@ pip install requests
   needing real infrastructure credentials. The report explains exactly
   where a production integration would plug in.
 
-## Reminder
-Every task here is scoped to lab/localhost/your-own-infrastructure use
-per the program's ethical guidelines — don't point any of these at
-systems you don't own or have written authorization to test.
+
