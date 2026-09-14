@@ -1,0 +1,20 @@
+[
+  {
+    "tool": "Trivy",
+    "vuln": "CVE-2024-XXXX in libcurl",
+    "severity": "CRITICAL",
+    "location": "base-image"
+  },
+  {
+    "tool": "Bandit",
+    "vuln": "Hardcoded Password",
+    "severity": "HIGH",
+    "location": "app/config.py:12"
+  },
+  {
+    "tool": "npm-audit",
+    "vuln": "Prototype Pollution in lodash",
+    "severity": "HIGH",
+    "location": "package.json"
+  }
+]

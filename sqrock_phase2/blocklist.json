@@ -1,0 +1,12 @@
+[
+  {
+    "ip": "103.45.67.89",
+    "indicator": "malware_c2",
+    "risk_score": 98
+  },
+  {
+    "ip": "198.51.100.33",
+    "indicator": "brute_forcer",
+    "risk_score": 92
+  }
+]
